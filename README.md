@@ -1,2 +1,2 @@
-# jinmiyoon.github.io
-website
+# jinmiyoon
+ website
