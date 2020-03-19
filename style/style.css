@@ -129,7 +129,7 @@ ol li
 
 #menubar
 { height: 46px;
-  width: 100%;
+  width: 700px;
   margin: 0px auto -1px auto;
   float: right;
   padding: 0px 0 0 0;}
@@ -152,7 +152,7 @@ ul#menu li a
   float: left;
   height: 20px;
   padding: 7px 23px 15px 23px;
-  text-align: center;}
+  text-align: left;}
 
 ul#menu li.current a
 { height: 20px;
