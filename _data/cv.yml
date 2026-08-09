@@ -1,0 +1,97 @@
+cv:
+  name: Jinmi Yoon
+  label: Principal Astronomical Data Scientist
+  # email intentionally omitted: this field renders as plain, unobfuscated
+  # text in al_folio_cv's render.liquid. Email is available via the
+  # protected icon link on the about page / navbar instead (see the local
+  # _includes/header.liquid and _layouts/about.liquid overrides).
+  location: Baltimore, MD
+  image: ""
+  summary: Astrophysicist and Principal Staff Astronomical Data Scientist at the Space Telescope Science Institute.
+
+  social_networks:
+    - network: ORCID
+      username: 0000-0002-4168-239X
+
+  address:
+    street: 3700 San Martin Dr
+    city: Baltimore
+    region: Maryland
+    postalCode: MD 21218
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Stony Brook University
+        location: Stony Brook, NY
+        area: Physics (Astrophysics)
+        studyType: PhD
+        start_date: 2002
+        end_date: 2008
+
+      - institution: Seoul National University
+        location: Seoul, South Korea
+        area: Physics (High-Energy Physics)
+        studyType: MSc
+        start_date: 1999
+        end_date: 2001
+
+      - institution: University of Seoul
+        location: Seoul, South Korea
+        area: Physics
+        studyType: BSc
+        start_date: 1995
+        end_date: 1999
+
+    Experience:
+      - company: Space Telescope Science Institute
+        position: Principal Staff Scientist, Astronomical Data
+        location: Baltimore, MD
+        start_date: 2025-10-01
+        summary: Continuing work on making the world's astronomical information accessible to all at the Mikulski Archive for Space Telescopes (MAST).
+
+      - company: Space Telescope Science Institute
+        position: Senior Staff Scientist, Astronomical Data
+        location: Baltimore, MD
+        start_date: 2021
+        end_date: 2025
+
+      - company: University of Notre Dame
+        position: JINA-CEE Postdoctoral Fellow
+        location: Notre Dame, IN
+        start_date: 2017
+        end_date: 2020
+        summary: Department of Physics and JINA-CEE.
+
+      - company: University of Notre Dame
+        position: Postdoctoral Research Associate
+        location: Notre Dame, IN
+        start_date: 2015
+        end_date: 2017
+        summary: Department of Physics and JINA-CEE.
+
+      - company: University of Seoul
+        position: Physics Adjunct
+        location: Seoul, South Korea
+        start_date: 2001
+        end_date: 2002
+
+    Awards:
+      - title: JINA-CEE Postdoctoral Fellowship
+        awarder: University of Notre Dame
+
+      - title: AAS Astronomy Ambassador program cohort
+        awarder: American Astronomical Society
+
+      - title: Brain Korea 21 Scholarship
+        awarder: School of Physics, Seoul National University
+
+      - title: Dean's Award for Academic Excellence
+        awarder: College of Liberal Arts and Science, University of Seoul
+
+      - title: Top Honor Graduate
+        awarder: Department of Physics, University of Seoul
+
+    Teaching:
+      - label: Teaching and mentoring experience
+        details: See the <a href="/teaching/">teaching page</a> for lecture series, summer schools, and teaching assistant positions.

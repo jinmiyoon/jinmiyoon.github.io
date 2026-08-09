@@ -1,1 +1,20 @@
 .DS_Store
+_site
+.bundle
+.idea
+.jekyll-cache
+.jekyll-metadata
+.ruby-version
+.sass-cache
+.tweet-cache
+.venv
+assets/libs/
+node_modules/
+output/playwright/
+test-results/
+vendor
+al-folio-upgrade-report.md
+
+# Python bytecode from bin/ helper scripts
+__pycache__/
+*.pyc

@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: jyoon@stsci.edu # your email address
+orcid_id: 0000-0002-4168-239X # your ORCID iD
+rss_icon: true # comment this line to hide the RSS icon
+custom_social: # ADS library, since jekyll-socials has no built-in ADS icon
+  logo: fa-solid fa-book-open
+  title: ADS Library
+  url: https://ui.adsabs.harvard.edu/search/q=docs(library%2F6mwzfaRHSOakF7fPQFYy7g)&sort=date%20desc%2C%20bibcode%20desc&p_=0
