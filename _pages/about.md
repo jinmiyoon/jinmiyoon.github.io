@@ -33,4 +33,4 @@ My research interest lies in near-field cosmology. I am particularly interested 
 
 Before my current position, I was a JINA-CEE postdoctoral fellow in the [Department of Physics](http://physics.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/) and the [Joint Institute of Nuclear Astrophysics - Center for the Evolution of the Elements (JINA-CEE)](http://www.jinaweb.org/). I also taught university introductory physics courses at the [University of Seoul](https://www.uos.ac.kr/), Korea.
 
-Outside of the work, I enjoy socializing, skimming through picture books, in particular iterior design books, listening to audiobook or music. This site is a mix of my research/teaching experience, work at STScI, and the occasional personal update — feel free to look around.
+Outside of work, I enjoy socializing, browsing picture books (interior design ones especially), and listening to audiobooks or music. This site is a mix of my research and teaching experience, work at STScI, and the occasional personal update — feel free to look around.

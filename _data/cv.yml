@@ -1,6 +1,6 @@
 cv:
   name: Jinmi Yoon
-  label: Principal Astronomical Data Scientist
+  label: Principal Staff Astronomical Data Scientist
   # email intentionally omitted: this field renders as plain, unobfuscated
   # text in al_folio_cv's render.liquid. Email is available via the
   # protected icon link on the about page / navbar instead (see the local
